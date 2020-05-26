@@ -35,7 +35,7 @@ namespace SystemIO
                     {
                         Name = "ismail KAŞAN",
                         Email = "ismailkasan63@gmail.com",
-                        Url = new Uri("https://coderjony.com/"),
+                        Url = new Uri("https://github.com/ismailkasan"),
                     },
                 });
             });
