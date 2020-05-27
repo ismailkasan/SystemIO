@@ -1,9 +1,4 @@
-Hello
-And
-Welcome
-This
-is Extra
-Text
-This
-is Extra
-Text
+If you already have a byte array then you will need to
+ know what type of encoding was used to make it into that byte array.
+
+For example, if the byte array was created like this:
